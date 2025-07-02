@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face{
+    font-family: Poppins;
+    src: url('/fonts/Poppins-Regular.ttf');
+}
+
+@font-face{
+    font-family: Mona Sans;
+    src: url('/fonts/Poppins-Regular.ttf');
+}
+
+*{
+    font-family: Poppins;
+}
+
+body{
+    background-color: #09090b;
+}
