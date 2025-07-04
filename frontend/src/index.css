@@ -10,6 +10,10 @@
     src: url('/fonts/Poppins-Regular.ttf');
 }
 
+.mona_sans{
+    font-family: Mona Sans;
+}
+
 *{
     font-family: Poppins;
 }
